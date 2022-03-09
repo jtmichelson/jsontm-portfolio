@@ -55,7 +55,7 @@ const App: React.FC = () => {
       <header css={AppHeader}>
         <div css={FlexRow}>
           <img css={ImageStyles} src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png" alt="TypeScript Logo" />
-          <img css={[ImageStyles, Rotating]} id="reactLogo" src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="React Logo" />
+          <img css={[ImageStyles, Rotating]} id="reactLogo" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" />
           <img css={ImageStyles} src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS Logo"/>
           <img css={ImageStyles} src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="Cpp Logo"/>
 
